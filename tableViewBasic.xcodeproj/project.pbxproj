@@ -13,6 +13,7 @@
 		CEE07BA923D5D84900FCECC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEE07BA723D5D84900FCECC7 /* Main.storyboard */; };
 		CEE07BAB23D5D84D00FCECC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEE07BAA23D5D84D00FCECC7 /* Assets.xcassets */; };
 		CEE07BAE23D5D84D00FCECC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEE07BAC23D5D84D00FCECC7 /* LaunchScreen.storyboard */; };
+		CEE07BB623D5D99F00FCECC7 /* nextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE07BB523D5D99F00FCECC7 /* nextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CEE07BAA23D5D84D00FCECC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEE07BAD23D5D84D00FCECC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEE07BAF23D5D84D00FCECC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEE07BB523D5D99F00FCECC7 /* nextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				CEE07BA323D5D84900FCECC7 /* SceneDelegate.swift */,
 				CEE07BA523D5D84900FCECC7 /* ViewController.swift */,
 				CEE07BA723D5D84900FCECC7 /* Main.storyboard */,
+				CEE07BB523D5D99F00FCECC7 /* nextViewController.swift */,
 				CEE07BAA23D5D84D00FCECC7 /* Assets.xcassets */,
 				CEE07BAC23D5D84D00FCECC7 /* LaunchScreen.storyboard */,
 				CEE07BAF23D5D84D00FCECC7 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEE07BA623D5D84900FCECC7 /* ViewController.swift in Sources */,
+				CEE07BB623D5D99F00FCECC7 /* nextViewController.swift in Sources */,
 				CEE07BA223D5D84900FCECC7 /* AppDelegate.swift in Sources */,
 				CEE07BA423D5D84900FCECC7 /* SceneDelegate.swift in Sources */,
 			);
